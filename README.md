@@ -2,7 +2,7 @@
 
 This is a simple Google App Script to convert Google Docs or Google Sheets documents to PDFs all within the Drive application. No downloads are required. This is all done within the Google Drive application. You only need to provide folder IDs for the document root folder and the destination folder. 
 
-##How to for beginners: 
+## How to for beginners: 
 
 1. Create a new Google Apps Script document in your Google Drive app (NEW -> OTHER -> Google Apps Script)
 2. Copy and paste the app.gdoc provided in this repository.
